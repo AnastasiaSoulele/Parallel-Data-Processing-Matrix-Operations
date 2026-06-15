@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678453381 source:c:\users\user\documents\Δίκτυα Υπολογιστών\peakperformance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
